@@ -1,0 +1,40 @@
+{
+  "successful": true,
+  "version": "0.4.0",
+  "platform": "win32",
+  "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+  "python_optimization": 0,
+  "checks_active_under_optimization": true,
+  "seed": 20261012,
+  "elapsed_seconds": 10.5,
+  "physical_hid_access": false,
+  "linux_peer_credentials_and_permissions_checked": false,
+  "remaining_workers": [],
+  "scenarios": {
+    "framing": {
+      "fragmented_roundtrips": 500,
+      "valid": 167,
+      "rejected": 333,
+      "client_slots_restored": true
+    },
+    "concurrency": {
+      "producers": 8,
+      "transactions": 400,
+      "reports": 1200,
+      "interleaved_transactions": 0
+    },
+    "reconnect_and_profiles": {
+      "cycles": 50,
+      "unique_sessions": 50,
+      "stale_writes_blocked": 50,
+      "file_roundtrips": 50,
+      "profile_renames": 100,
+      "closed_old_handles": 50
+    },
+    "usb_failures": {
+      "failed_report_positions": 4,
+      "false_successes": 0,
+      "writes_after_failure": 0
+    }
+  }
+}

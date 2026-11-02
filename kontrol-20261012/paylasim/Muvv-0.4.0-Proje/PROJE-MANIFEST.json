@@ -1,0 +1,907 @@
+[
+  {
+    "path": "BASLANGIC.md",
+    "bytes": 3361,
+    "sha256": "a4bda656ce1f75cc05b3f4b4d0be65c90fb73a91bdcdaa212a44d079d1a6328a"
+  },
+  {
+    "path": "DEMO-BASLAT.cmd",
+    "bytes": 1724,
+    "sha256": "963626919d3dddfae30b364edfc87d9388861516fd7769c2fb83d99ea58ac277"
+  },
+  {
+    "path": "DOSYA-MANIFEST.json",
+    "bytes": 46034,
+    "sha256": "11d786f77c8991d33977ed587ea63cbc0dd53f36cae981f41f632e94e9721027"
+  },
+  {
+    "path": "GELISTIRME-0.4-PLANI.md",
+    "bytes": 1673,
+    "sha256": "f323f1e5385df571ebf8d43b1487555f615eccae947c5f56cf59ac4f9dbf8739"
+  },
+  {
+    "path": "GELISTIRME-0.4-RAPORU.md",
+    "bytes": 11481,
+    "sha256": "8ddb2cd21d14ce1a5792bd487934e2e67e627f63e29b323348a6e0d9d06f9b4a"
+  },
+  {
+    "path": "KONTROL-2026-10-12.md",
+    "bytes": 3243,
+    "sha256": "3391bb27fe7e1d180dd5e6596939cbe583c315d2b19b52c457399eb4f8447fcf"
+  },
+  {
+    "path": "Muvv/.gitattributes",
+    "bytes": 19,
+    "sha256": "d60f352d0db1404c70afb4bb8b2ca3fd1c610572aa40720e8a0b7baa7885418c"
+  },
+  {
+    "path": "Muvv/.github/workflows/check.yml",
+    "bytes": 1601,
+    "sha256": "84e2b9875a3d370bc21b81fff1ac65c9994d03a6a034b57e9c5637745a64316e"
+  },
+  {
+    "path": "Muvv/.gitignore",
+    "bytes": 516,
+    "sha256": "0992b7f94f3aeee5d2a928e0054394bec74bf38bef877c12b1204745f08a04c3"
+  },
+  {
+    "path": "Muvv/CHANGELOG.md",
+    "bytes": 6959,
+    "sha256": "28aa7df09172b84e7b22eaf4d4e348b93a8f6b3de49545aed7ecf7ccbab4176c"
+  },
+  {
+    "path": "Muvv/MANIFEST.in",
+    "bytes": 218,
+    "sha256": "dd7e864b357be143620863a3e77c644356227ae138456a5cd0cc6fefdd267070"
+  },
+  {
+    "path": "Muvv/README.md",
+    "bytes": 9750,
+    "sha256": "04c6601ce0a6e7289fa4da1bbcf3fe4f0cca2c734ca7b696988d69f5b354abe5"
+  },
+  {
+    "path": "Muvv/SECURITY.md",
+    "bytes": 7162,
+    "sha256": "e4f36669aa37348c79504bb585e1120f1e12680b11894720bf669294aeacfc17"
+  },
+  {
+    "path": "Muvv/animations/__init__.py",
+    "bytes": 31,
+    "sha256": "8d77e846b4faff6a286fe848b9eba6b09261e249b0d24e544b97bb00ecdc79de"
+  },
+  {
+    "path": "Muvv/animations/effect_registry.py",
+    "bytes": 1900,
+    "sha256": "4be20859da43ab19743759f7885ddd1678e3d79420d96cb33ce44b61d5fb4b4e"
+  },
+  {
+    "path": "Muvv/animations/effects/__init__.py",
+    "bytes": 209,
+    "sha256": "e98d033722012f8be45daa849af34a4c5df404dd2ac8e5855627fdd7e873975c"
+  },
+  {
+    "path": "Muvv/animations/effects/base_effect.py",
+    "bytes": 2391,
+    "sha256": "ae0538058c5f2ecc57d056b07e74ee541c100c50534c9b35fc3f59a59bb0484b"
+  },
+  {
+    "path": "Muvv/animations/effects/breathing.py",
+    "bytes": 685,
+    "sha256": "7acb6552c11cc8b210c65abce4a9a53c685d37b57a3c3895591cbb8cac014f1f"
+  },
+  {
+    "path": "Muvv/animations/effects/spectrum_cycle.py",
+    "bytes": 743,
+    "sha256": "80039113ef0a84d24df544788b43349be72206d5e830171edbf540f312506484"
+  },
+  {
+    "path": "Muvv/animations/effects/static_color.py",
+    "bytes": 472,
+    "sha256": "06c7b4c27fe3d63c4de19469e597bb67865aba5db506527e277f57f43c2387a5"
+  },
+  {
+    "path": "Muvv/animations/effects/wave.py",
+    "bytes": 1299,
+    "sha256": "88ebc17f0580a962917a597d2bff8123879a34326d17c780f3d7154ed64f3699"
+  },
+  {
+    "path": "Muvv/animations/layer.py",
+    "bytes": 2909,
+    "sha256": "34a9a691dbba621f439a5db2891c0e11507f24af1bcc942800de5b11310bdd6e"
+  },
+  {
+    "path": "Muvv/animations/maps.py",
+    "bytes": 1317,
+    "sha256": "887173533162a142d3dd1df64709689db60e861bdccd8da9464562313d8b4790"
+  },
+  {
+    "path": "Muvv/animations/vitray.py",
+    "bytes": 1040,
+    "sha256": "67c8b182dc0cf18b8ebefe44ffb1a51aba78a8fd3ba2fd11e98a6e6d1fb82c2a"
+  },
+  {
+    "path": "Muvv/app_version.py",
+    "bytes": 22,
+    "sha256": "e364931a8afff672985ee99f795e6d8b20ff33c55d71d757ec211ec6689b3c19"
+  },
+  {
+    "path": "Muvv/cli.py",
+    "bytes": 14271,
+    "sha256": "a56b00aad9778b6d79f8dcf06fcd592483841ef22c791af075b3b36164a6af07"
+  },
+  {
+    "path": "Muvv/daemon.py",
+    "bytes": 1510,
+    "sha256": "a899293b2e26d35a7e0006c45b644c4762ba4f8c2b82dcd8bdbf434c36aa649b"
+  },
+  {
+    "path": "Muvv/demo.py",
+    "bytes": 1483,
+    "sha256": "73b93cd7cf23726bf91db0787c020963392323143a5cf0455d45ad23528b0f36"
+  },
+  {
+    "path": "Muvv/diagnostics.py",
+    "bytes": 3032,
+    "sha256": "91e12042d55be710adf733914c38b8af11e4b325c1a7caf9aa657e32f78bee3f"
+  },
+  {
+    "path": "Muvv/docs/ARCHITECTURE.md",
+    "bytes": 5167,
+    "sha256": "57c8c6fc23d9c50e7695bc7ebebe68d59bdef0ac0e5959242ffc45bdc4abefd0"
+  },
+  {
+    "path": "Muvv/docs/HARDWARE-ACCEPTANCE.md",
+    "bytes": 3125,
+    "sha256": "b8b016949ce9f91fea08e3a0a1eb0201101e70140e9fe372e273904bddebcbb1"
+  },
+  {
+    "path": "Muvv/docs/IPC.md",
+    "bytes": 6673,
+    "sha256": "afed6f70b80cb04f0d041ba7a5f3e0d2527894ce893a988021bce254a76b11fa"
+  },
+  {
+    "path": "Muvv/docs/SteelSeries/Rival 3 Gen 2/tr/DPI dökümantasyonu.md",
+    "bytes": 4529,
+    "sha256": "f709d6574f509af26bbeb793d412242ba5490113fec00a34ec7e5eaf1c7cabae"
+  },
+  {
+    "path": "Muvv/docs/SteelSeries/Rival 3 Gen 2/tr/Renk dökümantasyonu.md",
+    "bytes": 2946,
+    "sha256": "0b716c054055356ab36ca0d391e315c819d4cfac77f4a288bf6553c8b4ccdda6"
+  },
+  {
+    "path": "Muvv/docs/SteelSeries/Rival 3 Gen 2/tr/Tuş Atama Dökümanı.md",
+    "bytes": 3915,
+    "sha256": "50f25b34a1ee6b5fd41c0bcde502219be09bc70659e73645d0b09964e898ddbe"
+  },
+  {
+    "path": "Muvv/drivers/__init__.py",
+    "bytes": 35,
+    "sha256": "8a1b1ac152f94bdf38c92b469ae11f42c03ceb3c9d58a1277c1a973adfc9442a"
+  },
+  {
+    "path": "Muvv/drivers/base_mouse.py",
+    "bytes": 9893,
+    "sha256": "6a05a4cdcdcdbb4f90d3387daf673b4db500918edb31da69e25f6cb2e96437c3"
+  },
+  {
+    "path": "Muvv/drivers/steelseries/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Muvv/drivers/steelseries/rival3_gen2.py",
+    "bytes": 16604,
+    "sha256": "29231c555ae91b4acb12f6697a81f768a675e256368067c5bf3b9161de86f4cd"
+  },
+  {
+    "path": "Muvv/gui.py",
+    "bytes": 50324,
+    "sha256": "fee1dcd2d63a05b0caf614cc8174ab516390f47a25a55d2407b2da9d96c732f3"
+  },
+  {
+    "path": "Muvv/ipc_protocol.py",
+    "bytes": 5307,
+    "sha256": "d183dfbafa65fad6a3c94c01cfed59073d36b8caee7e22f64ede361b35b9807c"
+  },
+  {
+    "path": "Muvv/keyboard_keys.py",
+    "bytes": 1317,
+    "sha256": "c669335aa72472d5ac759794ec1a96f10fdc0a7e9358648a7eb9ed7c1e12e806"
+  },
+  {
+    "path": "Muvv/managers/__init__.py",
+    "bytes": 55,
+    "sha256": "b33d1697f266e958d082eeaa7f5d61259be6cfa5a8e33e129570c16dddaa5290"
+  },
+  {
+    "path": "Muvv/managers/device_manager.py",
+    "bytes": 15409,
+    "sha256": "ce59df9218aa9ae5d046b82e3c11cdf8451f88baa2e8200457136ebf637d6fcd"
+  },
+  {
+    "path": "Muvv/managers/device_registry.py",
+    "bytes": 883,
+    "sha256": "6bcde1eff9b073d242896c2acaefddeb0a93679cb729b8373db479e3eb47d454"
+  },
+  {
+    "path": "Muvv/managers/device_runner.py",
+    "bytes": 11452,
+    "sha256": "82f7d7134490bbab91ca7582fad753cce5d175bd6852a5746a636a2038e372f8"
+  },
+  {
+    "path": "Muvv/managers/errors.py",
+    "bytes": 663,
+    "sha256": "c4caf60de6695507e287b7ecfcb96885884e7dde77ed70d8a31861ff3c7f0184"
+  },
+  {
+    "path": "Muvv/managers/ipc_server.py",
+    "bytes": 20941,
+    "sha256": "251dac849ae785305fdf7f4b9d4bcefbdd4afdec0e3a931b0ddc47868d3e1824"
+  },
+  {
+    "path": "Muvv/managers/profile_store.py",
+    "bytes": 12293,
+    "sha256": "abd467fa87be05f49468355c23fd6c5404605a36029c35b53c8c226c4e2593d0"
+  },
+  {
+    "path": "Muvv/managers/validator.py",
+    "bytes": 3721,
+    "sha256": "c2ca603c46e4e9c39564448eb9431d5c84d1f8025350a283b565eb4b06b248b7"
+  },
+  {
+    "path": "Muvv/packaging/70-muvv.rules",
+    "bytes": 194,
+    "sha256": "dbc6b9047ab22102b01bbf5864f2ff97a2480eb5278c4389a7c575213505b772"
+  },
+  {
+    "path": "Muvv/packaging/muvvd.service",
+    "bytes": 262,
+    "sha256": "02db882c884e4aad70d4a0e7a5f197d822b1272920edf8bcd76cd5103240a423"
+  },
+  {
+    "path": "Muvv/profile_io.py",
+    "bytes": 3018,
+    "sha256": "21b2381faf7d2d5c51cd2bc75ad6be66840e13059f21a81467870a6c07e77da2"
+  },
+  {
+    "path": "Muvv/pyproject.toml",
+    "bytes": 1641,
+    "sha256": "4316d31449db851bdbe9fbab57c121e7af2cbe61e149dda3110e567fa6853a30"
+  },
+  {
+    "path": "Muvv/requirements-dev.txt",
+    "bytes": 61,
+    "sha256": "9f896429edb8ea485b8522d12a138abb4af7ff7cc337aadd863f7deab61e7f04"
+  },
+  {
+    "path": "Muvv/requirements-lock.txt",
+    "bytes": 7551,
+    "sha256": "6c44f17e99d99736240eeb9090b0435c8a6e6a56083039a3ee6d8cdad1a89adc"
+  },
+  {
+    "path": "Muvv/requirements.txt",
+    "bytes": 36,
+    "sha256": "812a8743fccc1eb33c98d0ead6e3208529bc6d8cd9d8ad37d2e9dcbf6272b541"
+  },
+  {
+    "path": "Muvv/schemas.py",
+    "bytes": 719,
+    "sha256": "092f2abd5a71cab35747f3e4c1c20f4d6c8872154225b6bb5939774bde584000"
+  },
+  {
+    "path": "Muvv/test/hardware/steelseries/rival3_gen2/test_buttons.py",
+    "bytes": 326,
+    "sha256": "39f8dea5b2608f3e62d73b25374c7afe91d31362cf6912e6d6ba7ef0ea523761"
+  },
+  {
+    "path": "Muvv/test/hardware/steelseries/rival3_gen2/test_color.py",
+    "bytes": 324,
+    "sha256": "5791beee8c6d7764b494997bcb6f3e95d0c4f09dd40811d4df9cd23f87bb518c"
+  },
+  {
+    "path": "Muvv/test/hardware/steelseries/rival3_gen2/test_connection.py",
+    "bytes": 326,
+    "sha256": "1d75d0282a340cdafac76199bb293ce25c6d5cbc0c7254a1ac86dec538f0115c"
+  },
+  {
+    "path": "Muvv/test/hardware/steelseries/rival3_gen2/test_dpi.py",
+    "bytes": 322,
+    "sha256": "d407fb9d1aca5acd0596b95f3001488e0f0edc121a43a6662d4124f8b6a9d51f"
+  },
+  {
+    "path": "Muvv/test/hardware/steelseries/rival3_gen2/test_dpi_stages.py",
+    "bytes": 325,
+    "sha256": "fec36ffd395a2d6f86e327838c53c8b440947922b9ac62ee1ffdf85baba829f2"
+  },
+  {
+    "path": "Muvv/test/hardware/steelseries/rival3_gen2/test_vitray_cli.py",
+    "bytes": 325,
+    "sha256": "5b532b9c906d5de54a4907b3370183705f20a9997c68d183d971e38ce682d88d"
+  },
+  {
+    "path": "Muvv/test/manager/test_capabilities_info.py",
+    "bytes": 1848,
+    "sha256": "931d4ebdce77585adf4f39e29b5cc0188dcc364d069451be8e79574f812b651e"
+  },
+  {
+    "path": "Muvv/test/manager/test_effect_options.py",
+    "bytes": 1617,
+    "sha256": "df085b2421042660bd2d332a7814dbafecca51d5efaa619d924033ab6bacc7a9"
+  },
+  {
+    "path": "Muvv/test/manager/test_manager.py",
+    "bytes": 322,
+    "sha256": "82203b1d9ac52e177d9d7c8dd2e700b3ae1324ffbe922ec80e5615ef798befd8"
+  },
+  {
+    "path": "Muvv/test/manager/test_validator.py",
+    "bytes": 3310,
+    "sha256": "b1e965308b8dd5c85a12d8ca9cfecb1742b7de2c9a0235b7ef81506fd37d9462"
+  },
+  {
+    "path": "Muvv/test/unit/support.py",
+    "bytes": 1194,
+    "sha256": "30eb8b6f9b7a289b264741f19d562bf0456a67bb18a103538811cf4391604e85"
+  },
+  {
+    "path": "Muvv/test/unit/test_client_workflows.py",
+    "bytes": 12367,
+    "sha256": "15059a089f0f7fcb446b2775960436de5950da477d9724da224c9267e8cb30e4"
+  },
+  {
+    "path": "Muvv/test/unit/test_daemon.py",
+    "bytes": 1405,
+    "sha256": "2be68cefcfc5ab633e6bd0628db623bbf17ee496339a67a77721bdc484b1e946"
+  },
+  {
+    "path": "Muvv/test/unit/test_driver.py",
+    "bytes": 8190,
+    "sha256": "02a8643f61dcacefd5b9bfdf2923a954909b697b97cbaf25c1b164a2bddb25a7"
+  },
+  {
+    "path": "Muvv/test/unit/test_effects.py",
+    "bytes": 5678,
+    "sha256": "a6c81efe2faab6ee3ee384b8e5f71d786d7ff630760f4d0941b685b284102272"
+  },
+  {
+    "path": "Muvv/test/unit/test_gui.py",
+    "bytes": 19868,
+    "sha256": "5dd8cb8ad977c4d7606c4b62f51e17acc56fe06dbdc362b58ee5cd38bb30067b"
+  },
+  {
+    "path": "Muvv/test/unit/test_lifecycle.py",
+    "bytes": 8873,
+    "sha256": "d9dda3e0f4c9a7395dd4f1b188bdbad028891110c20427c49d153ce2bab277bf"
+  },
+  {
+    "path": "Muvv/test/unit/test_linux_ipc.py",
+    "bytes": 7771,
+    "sha256": "f6f47adda7c638f3789dd8da3f950633ebab9243e1a1420f3a9b156ea1c2998f"
+  },
+  {
+    "path": "Muvv/test/unit/test_manager_cli.py",
+    "bytes": 8090,
+    "sha256": "11f1bd15157828c00f453c90dd12bfd9abe7a14282f8afa747f2b0d22a9b88b5"
+  },
+  {
+    "path": "Muvv/test/unit/test_profile_exchange.py",
+    "bytes": 7212,
+    "sha256": "d12afe194b721d6217da47a464542ed7eeeda54507c5eb66681118731720ddb1"
+  },
+  {
+    "path": "Muvv/test/unit/test_profiles.py",
+    "bytes": 4342,
+    "sha256": "3a78517e21ad6962cc6871c9913c1e3533e65d20b48e3392a15d5c85733b0b0a"
+  },
+  {
+    "path": "Muvv/test/unit/test_protocol.py",
+    "bytes": 6194,
+    "sha256": "2e602ec0f15dc19f4c0ec1817ce77922de26526bfe07786838c237d1bf025c4d"
+  },
+  {
+    "path": "Muvv/test/unit/test_robustness.py",
+    "bytes": 9854,
+    "sha256": "dbcffdf4cc02a15f7a1500b171d3baadaa7129544d4589d4ccfdc7f283988744"
+  },
+  {
+    "path": "Muvv/test/unit/test_scheduling.py",
+    "bytes": 2381,
+    "sha256": "5bb59021c82e5bc8d4c756dead05449e8aaf4a32a83ff3f29c1aa5ac14d55f07"
+  },
+  {
+    "path": "Muvv/test/unit/test_session_safety.py",
+    "bytes": 5612,
+    "sha256": "cb822bb50c54ce7dc8ad06adaa99418727fc7d5f8e65b88c50e50a79c9b1dc8a"
+  },
+  {
+    "path": "Muvv/tools/check.py",
+    "bytes": 1706,
+    "sha256": "928e293589d7c133b0b98db881c8de86382d48f528d8f7149f1c07797e4228aa"
+  },
+  {
+    "path": "Muvv/tools/gui_smoke.py",
+    "bytes": 4768,
+    "sha256": "c13038d395f4117c0d4f059671cb6e09625b48d1854b942cd0b4c5f5e772bf14"
+  },
+  {
+    "path": "Muvv/tools/hardware_check.py",
+    "bytes": 4742,
+    "sha256": "8ed4a18e89b1423a39206266d074327cd6730ac93764668b037df4884e25daa3"
+  },
+  {
+    "path": "Muvv/tools/lock_requirements.py",
+    "bytes": 1304,
+    "sha256": "add02c1f6937c8037f0d9404f320c999fcc01276634e45c0187f1870101c63a1"
+  },
+  {
+    "path": "Muvv/tools/simulation_check.py",
+    "bytes": 12284,
+    "sha256": "73c65c663beef7d467cf3bb4b1c81f13a8c1bb9390bd9f3544b7b6c9f2131c40"
+  },
+  {
+    "path": "Muvv/ui_client.py",
+    "bytes": 12262,
+    "sha256": "e93889d615ebaa1f792ae9d5d525c20d3fdb4a86298854ea8f49b90695ebce78"
+  },
+  {
+    "path": "Muvv_development_environment/.gitattributes",
+    "bytes": 19,
+    "sha256": "d60f352d0db1404c70afb4bb8b2ca3fd1c610572aa40720e8a0b7baa7885418c"
+  },
+  {
+    "path": "Muvv_development_environment/.gitignore",
+    "bytes": 8,
+    "sha256": "34053773df43f848d53e235b055f6ccdbbcbfcb7eeff68ef95e00e55e24c7c3c"
+  },
+  {
+    "path": "Muvv_development_environment/README.md",
+    "bytes": 1018,
+    "sha256": "7032b6c96e4e26b85f6c0bdf39623d81ed793716751bb2996a34893f1d135311"
+  },
+  {
+    "path": "Muvv_development_environment/Truemove_core.txt",
+    "bytes": 1460,
+    "sha256": "22cc8a78cc54c3ce10b2938ed7ba144723f5115e7e3dbffc108a627528933e3e"
+  },
+  {
+    "path": "Muvv_development_environment/development environment.md",
+    "bytes": 1965,
+    "sha256": "69bd4d3cab1fa0ac8a4b357cc713484dc060e4c68868c4691e0a160601736c65"
+  },
+  {
+    "path": "Muvv_development_environment/memory-bank/activeContext.md",
+    "bytes": 2770,
+    "sha256": "c27135728959923f7ba72a1b86f9ccb408fa3f56fb23d21f6391672a2bb04620"
+  },
+  {
+    "path": "Muvv_development_environment/memory-bank/progress.md",
+    "bytes": 3785,
+    "sha256": "c4024b116e2c298c55a48fc855f52b94f6ee9d9385d7ee11e3c50e656746de33"
+  },
+  {
+    "path": "Muvv_development_environment/memory-bank/projectbrief.md",
+    "bytes": 1107,
+    "sha256": "c580e4a6becd323c66ba69517053c0cd41a671f41407e944bf59f33a5ff4bde9"
+  },
+  {
+    "path": "Muvv_development_environment/memory-bank/systemPatterns.md",
+    "bytes": 3302,
+    "sha256": "52afc8617300ed5e6450d9b23b388dcc05bc96a9a03ebcbf83dbde0a74806926"
+  },
+  {
+    "path": "Muvv_development_environment/memory-bank/techContext.md",
+    "bytes": 1218,
+    "sha256": "43bdde683872cc020288636b27a7ffd69f596fa7006d555acad0f266f4b2dcf3"
+  },
+  {
+    "path": "Muvv_development_environment/proje.md",
+    "bytes": 4379,
+    "sha256": "dc4532eaabea8e5bc8eab915c615c3a9c5987e773d2077eb8607334c9f6039c7"
+  },
+  {
+    "path": "Muvv_development_environment/python_environment_setup.md",
+    "bytes": 1400,
+    "sha256": "13c8f95151fb0bbd8a96ffd00de7b90974733e205c373e693423979b2780215b"
+  },
+  {
+    "path": "SHA256SUMS.txt",
+    "bytes": 15720,
+    "sha256": "3d5b96c05cee6666099531352c8415964a8c6b02ae23fcc6f9841c5886d4dd65"
+  },
+  {
+    "path": "TESLIM.md",
+    "bytes": 2539,
+    "sha256": "273aaa6820226c36b312519e3ed7486df2478f9d22bf22f2504372feed224609"
+  },
+  {
+    "path": "gelistirme-0.4/Muvv.patch",
+    "bytes": 528142,
+    "sha256": "452887bae2316b195be97cc85fc9a57ebebb510a3a2c9a65ab2ed0679d6bdc6c"
+  },
+  {
+    "path": "gelistirme-0.4/Muvv_development_environment.patch",
+    "bytes": 41295,
+    "sha256": "5b36a58a3de8d8c729c25e6c5f3440daa3afb014e3921869e0c8292756b42e02"
+  },
+  {
+    "path": "gelistirme-0.4/arayuz-ilk-cagri.log",
+    "bytes": 101,
+    "sha256": "25264513273cba07dd3594621f5732b32959681d767ba819f63f9ba06ff0560d"
+  },
+  {
+    "path": "gelistirme-0.4/arayuz-smoke.json",
+    "bytes": 175,
+    "sha256": "2f089d27d8accefb5575ff775daf0415953358bafcd5a2df1463cb29c40c6e38"
+  },
+  {
+    "path": "gelistirme-0.4/arayuz-smoke.log",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "gelistirme-0.4/arayuz/buttons.png",
+    "bytes": 56657,
+    "sha256": "01ec7066dc328d9c147db5912cf63fcb96eddb4a4b462af5f7f7fd21d53e13f9"
+  },
+  {
+    "path": "gelistirme-0.4/arayuz/dpi.png",
+    "bytes": 47609,
+    "sha256": "0c6dcb367f813d3f308497268342f7edb6a17c8d1483787bec916a59837b97a9"
+  },
+  {
+    "path": "gelistirme-0.4/arayuz/minimum-size.png",
+    "bytes": 52252,
+    "sha256": "0d3daafd949e5b41dd654f96d7108dc8c13ce75c627900514737b1cbda6a98de"
+  },
+  {
+    "path": "gelistirme-0.4/arayuz/profiles.png",
+    "bytes": 57388,
+    "sha256": "bf94353dff0fbbba23c993492db5bd1677a5192e17bed18c7d43f51ce0747599"
+  },
+  {
+    "path": "gelistirme-0.4/arayuz/rgb-zones.png",
+    "bytes": 53372,
+    "sha256": "cf33c8c4a173f96a85ffb30daaf26691fa6ecb50a22cd1dd74b7bbaffd0afaad"
+  },
+  {
+    "path": "gelistirme-0.4/arayuz/rgb.png",
+    "bytes": 50005,
+    "sha256": "0026bcbccd4180d99fdb40bacc4dc83e6778afdf173d4b81a5562e2317de518d"
+  },
+  {
+    "path": "gelistirme-0.4/bagimlilik-denetimi.json",
+    "bytes": 259,
+    "sha256": "353584b77681d206473b52953d3560add70c7ee682d1e2e8017de37c95710299"
+  },
+  {
+    "path": "gelistirme-0.4/bagimlilik-denetimi.log",
+    "bytes": 32,
+    "sha256": "4e4757ff226a44b5c448b1c4624619419c22d5272463dc19510b4754871a72f9"
+  },
+  {
+    "path": "gelistirme-0.4/coverage.json",
+    "bytes": 253348,
+    "sha256": "2053e36ada24ff6ccb5f1ff235f4255933cf66431669ca97a603beb0d918da33"
+  },
+  {
+    "path": "gelistirme-0.4/coverage.txt",
+    "bytes": 3494,
+    "sha256": "4302ba56a0c994e8578070fa584cc2042c3b59320e041e801a6e28bf44b0d6fa"
+  },
+  {
+    "path": "gelistirme-0.4/derleme.log",
+    "bytes": 14709,
+    "sha256": "e1c787da0c02e98a74f6b0250ea90a2b3ef849b02579420a26b55c589ecaf5ca"
+  },
+  {
+    "path": "gelistirme-0.4/gelistirme-bagimlilik-denetimi.json",
+    "bytes": 2329,
+    "sha256": "e2d3df66d2124ad2d3fdf4ffbb9c489e3355767ad0ee3575d59d87e3c54e4648"
+  },
+  {
+    "path": "gelistirme-0.4/gelistirme-bagimlilik-denetimi.log",
+    "bytes": 32,
+    "sha256": "4e4757ff226a44b5c448b1c4624619419c22d5272463dc19510b4754871a72f9"
+  },
+  {
+    "path": "gelistirme-0.4/kanit-ozeti.json",
+    "bytes": 5380,
+    "sha256": "e8fa0f9dcfcb470b024e0421ed255b78adce9f515f5fa070554cf806c866be0c"
+  },
+  {
+    "path": "gelistirme-0.4/kanit-ozeti.py",
+    "bytes": 4229,
+    "sha256": "25e05b5a01c06acc2819ccc02243323d9aac87a12673e3a200068b181ede2d18"
+  },
+  {
+    "path": "gelistirme-0.4/katalog-arayuz-oncesi.log",
+    "bytes": 923,
+    "sha256": "6af41b1311db7d5139d910952f5226ab59bb8e91c515db06c7b94b7fb1b5e474"
+  },
+  {
+    "path": "gelistirme-0.4/katalog-arayuz-sonrasi.log",
+    "bytes": 278,
+    "sha256": "6af8fbc16d9265a90c3e263fd9110e154923bbc42e2ed89bfc6149d27ebce699"
+  },
+  {
+    "path": "gelistirme-0.4/katalog-oncesi.log",
+    "bytes": 959,
+    "sha256": "0c54e528637579c89a9ed4e4c19a8c6126dce8bd0f0467f3adc064e5970cd65c"
+  },
+  {
+    "path": "gelistirme-0.4/katalog-yarisi-oncesi.log",
+    "bytes": 913,
+    "sha256": "603b4af89c42353376f16aac38549f06600eab925644dd148a0c2380ad67c083"
+  },
+  {
+    "path": "gelistirme-0.4/kaynak-dogrulama-kaydi.log",
+    "bytes": 5775,
+    "sha256": "94bf7e1dd2a68a7535be3625ff7499183c24d68f7aa0e822856881eb063d8ecf"
+  },
+  {
+    "path": "gelistirme-0.4/kaynak-dogrulama.json",
+    "bytes": 7074,
+    "sha256": "4684247bf90361c38b610ce5f1a196c974a0240ebe47313f72badcf0ac2ed4bc"
+  },
+  {
+    "path": "gelistirme-0.4/kaynak-dogrulama.py",
+    "bytes": 6747,
+    "sha256": "8c4b137659f0c49ce9858c1f15c49379a5cf1919a5645efca56cd928a079679d"
+  },
+  {
+    "path": "gelistirme-0.4/optimize-arayuz.json",
+    "bytes": 175,
+    "sha256": "7a6addf0fb95a65b231a8de819b5703cddc448aee95218d96d91e16eb3477244"
+  },
+  {
+    "path": "gelistirme-0.4/optimize-senaryolar.json",
+    "bytes": 1076,
+    "sha256": "3bfe7294fd2f2327133d8bbfbec2572447369fc2a087255a05d6608347e79fee"
+  },
+  {
+    "path": "gelistirme-0.4/optimize-senaryolar.log",
+    "bytes": 1076,
+    "sha256": "3bfe7294fd2f2327133d8bbfbec2572447369fc2a087255a05d6608347e79fee"
+  },
+  {
+    "path": "gelistirme-0.4/ortam-tanisi.json",
+    "bytes": 908,
+    "sha256": "f5c675208a185fc463ed23184c9e7a77830ca567f9108a90b2799805698d7831"
+  },
+  {
+    "path": "gelistirme-0.4/paket-dogrulama.json",
+    "bytes": 40165,
+    "sha256": "9e05cb3ccc674fc2a694c999848d39ae74e1dd53c9dcf9b21c5422608d97734a"
+  },
+  {
+    "path": "gelistirme-0.4/paket-dogrulama.py",
+    "bytes": 6829,
+    "sha256": "cdbcda019b7791d86e320c0aa31f5d256da4d906b34fd8c77fbdb09543d1f249"
+  },
+  {
+    "path": "gelistirme-0.4/paket-kontrol-kaydi.log",
+    "bytes": 256,
+    "sha256": "6f9f3027c8e0937244b1e31c4191c47357bdab926ebf09b2426e52bbb4ad48bf"
+  },
+  {
+    "path": "gelistirme-0.4/regresyon-oncesi.log",
+    "bytes": 9064,
+    "sha256": "a5319f8578104965a5e9598b8a93c1842d424e948bbbd1daabbb54bd8beccf9a"
+  },
+  {
+    "path": "gelistirme-0.4/regresyon-sonrasi.log",
+    "bytes": 2268,
+    "sha256": "f142b2699735bc9437ff7063d8a02ee51c164a0707840b6f3f637711a922dae0"
+  },
+  {
+    "path": "gelistirme-0.4/ruff-check.log",
+    "bytes": 20,
+    "sha256": "a4443afdcfb6d7363adb285762515ccf7cf50473b1a05c20c1a50f6bed4d26b0"
+  },
+  {
+    "path": "gelistirme-0.4/ruff-format.log",
+    "bytes": 28,
+    "sha256": "51aa39f2d07627df0fcbd74209676361372820f4531988c54205387aa639b31a"
+  },
+  {
+    "path": "gelistirme-0.4/sanal-senaryolar.json",
+    "bytes": 1087,
+    "sha256": "b60f28831c0b4e3d0d80be75af66331fedb9d228012616caa2cdfd0f627f1edd"
+  },
+  {
+    "path": "gelistirme-0.4/sanal-senaryolar.log",
+    "bytes": 1047,
+    "sha256": "4552251658e348c6dc2bfe3d827f97263f87319432f301f47b8d5fec9d569e8e"
+  },
+  {
+    "path": "gelistirme-0.4/son-kontrol.py",
+    "bytes": 3522,
+    "sha256": "be6e54fe13da3e6d488404b225af8fc1600333b921929ef17f478f0bbcabecde"
+  },
+  {
+    "path": "gelistirme-0.4/tani-oncesi.log",
+    "bytes": 1715,
+    "sha256": "72856a53b2e27f6069fd69b513e9c28828f95d8d2681e0b3636f3eb8e5f25835"
+  },
+  {
+    "path": "gelistirme-0.4/tani-sonrasi.log",
+    "bytes": 505,
+    "sha256": "81b4d546e5ecfb1c92745bc8544edb9a482a50f83ab4f6339402e373a6f44639"
+  },
+  {
+    "path": "gelistirme-0.4/teslim-paketi.py",
+    "bytes": 13796,
+    "sha256": "8813de128e9b944d993ae9f1bf363a646879f60c3758aa25b36034ea86a23b0f"
+  },
+  {
+    "path": "gelistirme-0.4/test-kaydi.log",
+    "bytes": 26650,
+    "sha256": "7de2f2011a7d1fb599e0e73f52f220097f33929558179efd4e917a6811a82523"
+  },
+  {
+    "path": "gelistirme-0.4/test-sonuclari.json",
+    "bytes": 3635,
+    "sha256": "e26a9b2db797b4b1d4425cb3a60addde760989a585d5ee72c3c4d1fb721d1f71"
+  },
+  {
+    "path": "gelistirme-0.4/wheel-test-kaydi.log",
+    "bytes": 26467,
+    "sha256": "5a78144290f75b637add7abe0d8cb2dbac26d58a01793cf1b72c4f30480fd616"
+  },
+  {
+    "path": "gelistirme-0.4/wheel-test-sonuclari.json",
+    "bytes": 3635,
+    "sha256": "e26a9b2db797b4b1d4425cb3a60addde760989a585d5ee72c3c4d1fb721d1f71"
+  },
+  {
+    "path": "gelistirme-0.4/yama-dogrulama-kaydi.log",
+    "bytes": 351,
+    "sha256": "3fb581dcabc267ec8c779d019cfa979d8c0efad3b7d32d6d6c8f9132a5c9e970"
+  },
+  {
+    "path": "gelistirme-0.4/yama-dogrulama.json",
+    "bytes": 431,
+    "sha256": "71ad8e6a17e568e46040470eb06149669522e4f6c467b9dedea83d6e553a65e0"
+  },
+  {
+    "path": "gelistirme-0.4/yama-dogrulama.py",
+    "bytes": 2318,
+    "sha256": "9be5dcb882a573d52e07d5ff19394811502e37ac2f693c989f6d96df6b552c84"
+  },
+  {
+    "path": "gelistirme-0.4/yama-olustur.py",
+    "bytes": 440,
+    "sha256": "169d5a33006c8b3368ee023de58dd4ece6bcf5ac923ae8ea7da4e24cb86d9097"
+  },
+  {
+    "path": "inceleme/DOSYA-HARITASI.md",
+    "bytes": 13956,
+    "sha256": "77c595d685cfdeb26069bb5f5269c8a2b7075a334167954e60afd25c77093b49"
+  },
+  {
+    "path": "inceleme/MUVV-INCELEME-RAPORU.md",
+    "bytes": 42464,
+    "sha256": "39f0c4bb64b05e1c5be69ed573cec089dfd3c78c2223023ab9ebb50390300a2f"
+  },
+  {
+    "path": "inceleme/kanitlar/arsiv-envanteri.json",
+    "bytes": 9433,
+    "sha256": "ce6bf8c1eecf9120b5de6fc5cc3764600c3c6efb7340fd9e7b8ed5a6e4037b62"
+  },
+  {
+    "path": "inceleme/kanitlar/offline-inceleme-sonuclari.json",
+    "bytes": 13655,
+    "sha256": "9c7cbf38b581ff7e7384119e32831987293007bb126f267ef5dfba46db097f9d"
+  },
+  {
+    "path": "kontrol-20261012/arayuz-akis.json",
+    "bytes": 175,
+    "sha256": "2f089d27d8accefb5575ff775daf0415953358bafcd5a2df1463cb29c40c6e38"
+  },
+  {
+    "path": "kontrol-20261012/arayuz-smoke.json",
+    "bytes": 175,
+    "sha256": "2f089d27d8accefb5575ff775daf0415953358bafcd5a2df1463cb29c40c6e38"
+  },
+  {
+    "path": "kontrol-20261012/arayuz/buttons.png",
+    "bytes": 56657,
+    "sha256": "01ec7066dc328d9c147db5912cf63fcb96eddb4a4b462af5f7f7fd21d53e13f9"
+  },
+  {
+    "path": "kontrol-20261012/arayuz/dpi.png",
+    "bytes": 47609,
+    "sha256": "0c6dcb367f813d3f308497268342f7edb6a17c8d1483787bec916a59837b97a9"
+  },
+  {
+    "path": "kontrol-20261012/arayuz/minimum-size.png",
+    "bytes": 52252,
+    "sha256": "0d3daafd949e5b41dd654f96d7108dc8c13ce75c627900514737b1cbda6a98de"
+  },
+  {
+    "path": "kontrol-20261012/arayuz/profiles.png",
+    "bytes": 57388,
+    "sha256": "bf94353dff0fbbba23c993492db5bd1677a5192e17bed18c7d43f51ce0747599"
+  },
+  {
+    "path": "kontrol-20261012/arayuz/rgb-zones.png",
+    "bytes": 53242,
+    "sha256": "202dc50d278d191779970bbdda3a1bdd6b150ec3fb5d5c50d9da3173c4581706"
+  },
+  {
+    "path": "kontrol-20261012/arayuz/rgb.png",
+    "bytes": 50005,
+    "sha256": "7ce655f2cfafd4ad0298260c92dbfd9b5cdb1c4e69f99977aba0cf6371296981"
+  },
+  {
+    "path": "kontrol-20261012/kaynak-kontrolu.json",
+    "bytes": 1244,
+    "sha256": "2f177dec05884b9aa5ba0cebbbdcc94a32b1baac718e7d42adfd6c2f10e814cf"
+  },
+  {
+    "path": "kontrol-20261012/kaynak-manifest.json",
+    "bytes": 15448,
+    "sha256": "b971f504b572e1242348733f6779f9ae709e253b85dbe2d535f10a898aaaba49"
+  },
+  {
+    "path": "kontrol-20261012/ortam-tanisi.json",
+    "bytes": 908,
+    "sha256": "f5c675208a185fc463ed23184c9e7a77830ca567f9108a90b2799805698d7831"
+  },
+  {
+    "path": "kontrol-20261012/ruff-check.log",
+    "bytes": 20,
+    "sha256": "a4443afdcfb6d7363adb285762515ccf7cf50473b1a05c20c1a50f6bed4d26b0"
+  },
+  {
+    "path": "kontrol-20261012/ruff-format.log",
+    "bytes": 28,
+    "sha256": "51aa39f2d07627df0fcbd74209676361372820f4531988c54205387aa639b31a"
+  },
+  {
+    "path": "kontrol-20261012/sanal-senaryolar.json",
+    "bytes": 1078,
+    "sha256": "3bb16d6409d8a1b0469ea06c06d0adad3cafbb4dbfc0f49384f312a3080652a0"
+  },
+  {
+    "path": "kontrol-20261012/sanal-senaryolar.log",
+    "bytes": 1078,
+    "sha256": "3bb16d6409d8a1b0469ea06c06d0adad3cafbb4dbfc0f49384f312a3080652a0"
+  },
+  {
+    "path": "kontrol-20261012/temiz-arayuz.log",
+    "bytes": 846,
+    "sha256": "a41836a857623323d9b6ae7a03268576f391d0f734cc777bfd1ce7e91c6ac3de"
+  },
+  {
+    "path": "kontrol-20261012/temiz-kurulum.json",
+    "bytes": 671,
+    "sha256": "e6c109a21984561b3dcf9c39a1ef9350a1ee8b3c5b4866dfaf01ee2303fda39c"
+  },
+  {
+    "path": "kontrol-20261012/temiz-kurulum.log",
+    "bytes": 1415,
+    "sha256": "2209b27c87afb68d4c630db339adc9ac6d638bff528c1dbda7f57af4cb5d7eb8"
+  },
+  {
+    "path": "kontrol-20261012/test-kaydi.log",
+    "bytes": 26650,
+    "sha256": "33f0a0db7fb7220c9a575ca6a8b489f8f08d6f2b32979a6e635e35b2c9b484dd"
+  },
+  {
+    "path": "kontrol-20261012/test-sonuclari.json",
+    "bytes": 3635,
+    "sha256": "e26a9b2db797b4b1d4425cb3a60addde760989a585d5ee72c3c4d1fb721d1f71"
+  },
+  {
+    "path": "paketler/muvv-0.4.0-py3-none-any.whl",
+    "bytes": 64383,
+    "sha256": "4277369ba9717544467d419e922cb2e4d6d98da620dbed5ca3c8df8422b73a9b"
+  },
+  {
+    "path": "paketler/muvv-0.4.0.tar.gz",
+    "bytes": 112948,
+    "sha256": "b04ad8ecfd035b4b383b8b6fd04715996e70f0ac3c8ad5c5782ebe91e1235ffa"
+  }
+]

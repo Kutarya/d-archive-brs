@@ -1,0 +1,60 @@
+{
+  "tests": 148,
+  "passed": 136,
+  "failures": 0,
+  "errors": 0,
+  "skipped": [
+    {
+      "test": "test_idle_clients_are_bounded_and_closed_at_shutdown (test_linux_ipc.LinuxIPCTests.test_idle_clients_are_bounded_and_closed_at_shutdown)",
+      "reason": "Real Unix socket and POSIX permission tests require Linux."
+    },
+    {
+      "test": "test_malformed_frame_gets_error_and_daemon_remains_available (test_linux_ipc.LinuxIPCTests.test_malformed_frame_gets_error_and_daemon_remains_available)",
+      "reason": "Real Unix socket and POSIX permission tests require Linux."
+    },
+    {
+      "test": "test_profile_symlinks_and_hardlinks_are_rejected (test_linux_ipc.LinuxIPCTests.test_profile_symlinks_and_hardlinks_are_rejected)",
+      "reason": "Real Unix socket and POSIX permission tests require Linux."
+    },
+    {
+      "test": "test_second_daemon_cannot_remove_live_socket (test_linux_ipc.LinuxIPCTests.test_second_daemon_cannot_remove_live_socket)",
+      "reason": "Real Unix socket and POSIX permission tests require Linux."
+    },
+    {
+      "test": "test_slow_partial_request_times_out_with_error (test_linux_ipc.LinuxIPCTests.test_slow_partial_request_times_out_with_error)",
+      "reason": "Real Unix socket and POSIX permission tests require Linux."
+    },
+    {
+      "test": "test_socket_peer_must_belong_to_current_uid (test_linux_ipc.LinuxIPCTests.test_socket_peer_must_belong_to_current_uid)",
+      "reason": "Real Unix socket and POSIX permission tests require Linux."
+    },
+    {
+      "test": "test_socket_permissions_and_actual_client_roundtrip (test_linux_ipc.LinuxIPCTests.test_socket_permissions_and_actual_client_roundtrip)",
+      "reason": "Real Unix socket and POSIX permission tests require Linux."
+    },
+    {
+      "test": "test_stale_owned_socket_can_be_replaced (test_linux_ipc.LinuxIPCTests.test_stale_owned_socket_can_be_replaced)",
+      "reason": "Real Unix socket and POSIX permission tests require Linux."
+    },
+    {
+      "test": "test_start_refuses_regular_file_symlink_and_public_directory (test_linux_ipc.LinuxIPCTests.test_start_refuses_regular_file_symlink_and_public_directory)",
+      "reason": "Real Unix socket and POSIX permission tests require Linux."
+    },
+    {
+      "test": "test_stop_does_not_unlink_a_replaced_path (test_linux_ipc.LinuxIPCTests.test_stop_does_not_unlink_a_replaced_path)",
+      "reason": "Real Unix socket and POSIX permission tests require Linux."
+    },
+    {
+      "test": "test_fifo_is_rejected_before_opening (test_profile_exchange.ProfileExchangeTests.test_fifo_is_rejected_before_opening)",
+      "reason": "FIFO safety requires POSIX."
+    },
+    {
+      "test": "test_saved_profile_files_have_private_posix_permissions (test_profiles.ProfileTests.test_saved_profile_files_have_private_posix_permissions)",
+      "reason": "POSIX permissions are verified on Linux."
+    }
+  ],
+  "platform": "win32",
+  "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+  "hardware_access": false,
+  "successful": true
+}

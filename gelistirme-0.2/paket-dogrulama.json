@@ -1,0 +1,144 @@
+{
+  "checked_at_utc": "2026-10-11T11:37:19.246237+00:00",
+  "platform": "win32",
+  "wheel": "muvv-0.2.0-py3-none-any.whl",
+  "wheel_sha256": "16a9421c4d5045f424db3cb00add69cb37e3280a8dbd3184990f0ba9c5221da8",
+  "outside_source_tree": true,
+  "hardware_access": false,
+  "successful": true,
+  "checks": [
+    {
+      "command": [
+        "D:\\BRS\\Muvv\\.venv\\Scripts\\python.exe",
+        "-m",
+        "venv",
+        "D:\\BRS\\gelistirme-0.2\\paket-kontrolu-20261011T113654Z\\.venv"
+      ],
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "D:\\BRS\\gelistirme-0.2\\paket-kontrolu-20261011T113654Z\\.venv\\Scripts\\python.exe",
+        "-m",
+        "pip",
+        "install",
+        "--no-index",
+        "--no-deps",
+        "D:\\BRS\\Muvv\\dist\\muvv-0.2.0-py3-none-any.whl"
+      ],
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "stdout": "Processing d:\\brs\\muvv\\dist\\muvv-0.2.0-py3-none-any.whl\nInstalling collected packages: muvv\nSuccessfully installed muvv-0.2.0\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "D:\\BRS\\gelistirme-0.2\\paket-kontrolu-20261011T113654Z\\.venv\\Scripts\\python.exe",
+        "-I",
+        "-c",
+        "import cli, daemon, gui; from importlib.metadata import version; print(version('muvv')); print(cli.__file__); assert gui.ctk is None"
+      ],
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "stdout": "0.2.0\nD:\\BRS\\gelistirme-0.2\\paket-kontrolu-20261011T113654Z\\.venv\\Lib\\site-packages\\cli.py\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "D:\\BRS\\gelistirme-0.2\\paket-kontrolu-20261011T113654Z\\.venv\\Scripts\\muvv.exe",
+        "--help"
+      ],
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "stdout": "usage: muvv [-h] [--json] [--socket SOCKET] [--version]\n            {list,status,effects,doctor,list-profiles,info,save,reconnect,stop-effect,set-effect,update-effect,set-color,set-colors,set-dpi,set-dpi-stages,set-polling,bind-key,restore-buttons,set-button,save-profile,apply-profile,show-profile,delete-profile,rename-profile,export-profile,import-profile}\n            ...\n\nMuvv mouse control client\n\npositional arguments:\n  {list,status,effects,doctor,list-profiles,info,save,reconnect,stop-effect,set-effect,update-effect,set-color,set-colors,set-dpi,set-dpi-stages,set-polling,bind-key,restore-buttons,set-button,save-profile,apply-profile,show-profile,delete-profile,rename-profile,export-profile,import-profile}\n    list                List connected devices\n    status              Show daemon status\n    effects             List effect parameters\n    doctor              Check the environment without accessing hardware\n    list-profiles       List host profiles\n    set-effect          Select an RGB effect\n    update-effect       Change the active effect without restarting its clock\n    set-colors          Set the three Rival LED zones independently\n    set-dpi             Select a known DPI slot (0–4)\n    set-dpi-stages      Set all five DPI slots explicitly\n    restore-buttons     Replace all assignments with Muvv defaults\n    set-button          Assign a mouse function using its HID function ID\n    save-profile        Save known settings to a host profile\n    apply-profile       Apply a host profile\n    rename-profile      Rename a host profile without touching the device\n    export-profile      Export a validated host profile as JSON\n    import-profile      Validate and import a profile JSON file\n\noptions:\n  -h, --help            show this help message and exit\n  --json                Print a machine-readable response\n  --socket SOCKET       Use a different private Unix socket\n  --version             show program's version number and exit\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "D:\\BRS\\gelistirme-0.2\\paket-kontrolu-20261011T113654Z\\.venv\\Scripts\\muvv.exe",
+        "--version"
+      ],
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "stdout": "Muvv 0.2.0\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "D:\\BRS\\gelistirme-0.2\\paket-kontrolu-20261011T113654Z\\.venv\\Scripts\\muvv.exe",
+        "--json",
+        "doctor"
+      ],
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "stdout": "{\n  \"status\": \"ok\",\n  \"diagnostics\": {\n    \"version\": \"0.2.0\",\n    \"platform\": \"win32\",\n    \"python\": \"3.12.10\",\n    \"device_service_supported\": false,\n    \"dependencies\": {\n      \"hidapi\": null,\n      \"customtkinter\": null,\n      \"darkdetect\": null,\n      \"packaging\": null\n    },\n    \"checks\": [\n      {\n        \"name\": \"Device service\",\n        \"status\": \"warning\",\n        \"message\": \"Device control requires Linux; use --demo on this platform.\"\n      },\n      {\n        \"name\": \"HID backend\",\n        \"status\": \"warning\",\n        \"message\": \"Missing; see the installation section in README.\"\n      },\n      {\n        \"name\": \"Tk\",\n        \"status\": \"ok\",\n        \"message\": \"Available.\"\n      },\n      {\n        \"name\": \"Desktop UI\",\n        \"status\": \"warning\",\n        \"message\": \"Missing; see the installation section in README.\"\n      }\n    ],\n    \"hardware_access\": false,\n    \"filesystem_changes\": false,\n    \"healthy\": true\n  }\n}\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "D:\\BRS\\gelistirme-0.2\\paket-kontrolu-20261011T113654Z\\.venv\\Scripts\\muvv-gui.exe",
+        "--demo"
+      ],
+      "exit_code": 1,
+      "expected_exit_code": 1,
+      "stdout": "GUI dependency missing. Install the gui extra and your distribution's python3-tk package.\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "D:\\BRS\\gelistirme-0.2\\paket-kontrolu-20261011T113654Z\\.venv\\Scripts\\python.exe",
+        "-m",
+        "pip",
+        "install",
+        "--upgrade",
+        "pip==26.2.1"
+      ],
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "stdout": "Collecting pip==26.2.1\n  Using cached pip-26.2.1-py3-none-any.whl.metadata (4.6 kB)\nUsing cached pip-26.2.1-py3-none-any.whl (1.8 MB)\nInstalling collected packages: pip\n  Attempting uninstall: pip\n    Found existing installation: pip 25.0.1\n    Uninstalling pip-25.0.1:\n      Successfully uninstalled pip-25.0.1\nSuccessfully installed pip-26.2.1\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "D:\\BRS\\gelistirme-0.2\\paket-kontrolu-20261011T113654Z\\.venv\\Scripts\\python.exe",
+        "-m",
+        "pip",
+        "install",
+        "--require-hashes",
+        "-r",
+        "D:\\BRS\\Muvv\\requirements-lock.txt"
+      ],
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "stdout": "Collecting hidapi==0.15.0 (from -r D:\\BRS\\Muvv\\requirements-lock.txt (line 2))\n  Using cached hidapi-0.15.0-cp312-cp312-win_amd64.whl (67 kB)\nCollecting customtkinter==6.0.0 (from -r D:\\BRS\\Muvv\\requirements-lock.txt (line 84))\n  Using cached customtkinter-6.0.0-py3-none-any.whl (302 kB)\nCollecting darkdetect==0.8.0 (from -r D:\\BRS\\Muvv\\requirements-lock.txt (line 87))\n  Using cached darkdetect-0.8.0-py3-none-any.whl (9.0 kB)\nCollecting packaging==26.3 (from -r D:\\BRS\\Muvv\\requirements-lock.txt (line 90))\n  Using cached packaging-26.3-py3-none-any.whl (129 kB)\nInstalling collected packages: hidapi, packaging, darkdetect, customtkinter\n\nSuccessfully installed customtkinter-6.0.0 darkdetect-0.8.0 hidapi-0.15.0 packaging-26.3\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "D:\\BRS\\gelistirme-0.2\\paket-kontrolu-20261011T113654Z\\.venv\\Scripts\\python.exe",
+        "-m",
+        "pip",
+        "check"
+      ],
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "stdout": "No broken requirements found.\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "D:\\BRS\\gelistirme-0.2\\paket-kontrolu-20261011T113654Z\\.venv\\Scripts\\python.exe",
+        "-I",
+        "-c",
+        "\nimport json\nimport sys\nimport time\nimport tempfile\nfrom pathlib import Path\nfrom demo import DemoClient\nfrom gui import MuvvApp, ctk\nfrom app_version import __version__\nfrom importlib.metadata import version\nfrom profile_io import read_profile_file, write_profile_file\n\nctk.set_appearance_mode('dark')\nroot = ctk.CTk()\nroot.withdraw()\nerrors = []\nroot.report_callback_exception = lambda *args: errors.append(str(args[1]))\nclient = DemoClient()\napp = MuvvApp(root, client=client, demo=True)\n\ndef pump(predicate):\n    deadline = time.monotonic() + 6\n    while time.monotonic() < deadline:\n        root.update()\n        if predicate():\n            return\n        time.sleep(0.01)\n    raise RuntimeError('Packaged GUI deadline exceeded')\n\ntry:\n    assert version('muvv') == __version__ == '0.2.0'\n    pump(lambda: app._device_id is not None and not app._busy)\n    app.dpi_entries[0].delete(0, 'end')\n    app.dpi_entries[0].insert(0, '600')\n    app._apply_dpi()\n    pump(lambda: not app._busy)\n    assert client.runner.driver.dpi_levels[0] == 600\n    app.profile_name.insert(0, 'Temiz Kurulum')\n    app._save_profile()\n    pump(lambda: not app._busy)\n    assert client.manager.profile_store.load('Temiz Kurulum')['settings']['dpi']['stages'][0] == 600\n    app._command('stop-effect')\n    pump(lambda: not app._busy)\n    assert client.runner.get_state()['effect'] is None\n    for zone, color in zip(app.zone_entries, ('#FF0000', '#00FF00', '#0000FF'), strict=True):\n        app._replace_entry(app.zone_entries[zone], color)\n    app._apply_colors()\n    pump(lambda: not app._busy)\n    assert client.runner.driver.led_state['wheel'] == (255, 0, 0)\n    app.assignment_menu.set('Fare işlevi')\n    app.function_menu.set('DPI değiştir')\n    app._bind()\n    pump(lambda: not app._busy)\n    assert client.runner.driver.button_config['button4'] == 0x30\n    profile = client.manager.profile_store.load('Temiz Kurulum')\n    with tempfile.TemporaryDirectory() as directory:\n        filename = Path(directory) / 'profile.json'\n        write_profile_file(filename, profile)\n        assert read_profile_file(filename) == profile\n    app._command('rename-profile', {'name': 'Temiz Kurulum', 'new_name': 'Paket Testi'}, device=False)\n    pump(lambda: not app._busy)\n    assert 'Paket Testi' in app.profile_menu.cget('values')\n    assert not errors, errors\n    assert 'hid' not in sys.modules\n    print(json.dumps({'gui': 'passed', 'hardware_access': False, 'callback_errors': errors}))\nfinally:\n    app.close()\n    client.close()\n"
+      ],
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "stdout": "{\"gui\": \"passed\", \"hardware_access\": false, \"callback_errors\": []}\n",
+      "stderr": ""
+    }
+  ]
+}

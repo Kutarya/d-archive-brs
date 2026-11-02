@@ -1,0 +1,20 @@
+{
+  "checked_at_utc": "2026-10-12T00:35:16.285058+00:00",
+  "successful": true,
+  "version": "0.4.0",
+  "python": "3.14.5 (tags/v3.14.5:5607950, May 10 2026, 10:43:50) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "win32",
+  "installed_modules_from_site_packages": {
+    "gui": "gui.py",
+    "cli": "cli.py",
+    "demo": "demo.py",
+    "app_version": "app_version.py",
+    "drivers.base_mouse": "drivers/base_mouse.py",
+    "managers.device_manager": "managers/device_manager.py"
+  },
+  "normal_gui_demo_entry_point": "passed",
+  "dpi_rgb_effect_workflows": "passed",
+  "callback_errors": [],
+  "remaining_workers": [],
+  "physical_hid_access": false
+}

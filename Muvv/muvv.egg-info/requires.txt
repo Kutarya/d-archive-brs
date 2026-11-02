@@ -1,0 +1,10 @@
+hidapi==0.15.0
+
+[dev]
+ruff==0.17.0
+coverage==7.13.5
+build==1.6.1
+pip-audit==2.10.1
+
+[gui]
+customtkinter==6.0.0

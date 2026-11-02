@@ -1,0 +1,2 @@
+# SteelSeries Rival 3 Gen 2 Wired; logind grants access to the active local session.
+ACTION=="add|change", SUBSYSTEM=="hidraw", ATTRS{idVendor}=="1038", ATTRS{idProduct}=="1870", TAG+="uaccess"

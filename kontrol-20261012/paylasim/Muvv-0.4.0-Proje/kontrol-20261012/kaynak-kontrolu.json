@@ -1,0 +1,37 @@
+{
+  "checked_at_utc": "2026-10-12T00:30:47.537907+00:00",
+  "successful": true,
+  "version": "0.4.0",
+  "source_files": {
+    "Muvv": 83,
+    "Muvv_development_environment": 12
+  },
+  "current_sources_match_latest_0_4_zip": true,
+  "changed_files_since_0_3": [
+    "Muvv/CHANGELOG.md",
+    "Muvv/README.md",
+    "Muvv/SECURITY.md",
+    "Muvv/app_version.py",
+    "Muvv/cli.py",
+    "Muvv/docs/IPC.md",
+    "Muvv/drivers/base_mouse.py",
+    "Muvv/gui.py",
+    "Muvv/managers/device_manager.py",
+    "Muvv/managers/profile_store.py",
+    "Muvv/test/unit/test_gui.py",
+    "Muvv/test/unit/test_robustness.py",
+    "Muvv/tools/gui_smoke.py",
+    "Muvv/tools/simulation_check.py",
+    "Muvv/ui_client.py",
+    "Muvv_development_environment/README.md",
+    "Muvv_development_environment/memory-bank/activeContext.md",
+    "Muvv_development_environment/memory-bank/progress.md",
+    "Muvv_development_environment/memory-bank/systemPatterns.md"
+  ],
+  "removed_files_since_0_3": [],
+  "python_3_10_syntax_files": 64,
+  "wheel_source_modules_match": 34,
+  "wheel_sha256": "4277369ba9717544467d419e922cb2e4d6d98da620dbed5ca3c8df8422b73a9b",
+  "previous_delivery_files_preserved": 50,
+  "physical_hid_access": false
+}

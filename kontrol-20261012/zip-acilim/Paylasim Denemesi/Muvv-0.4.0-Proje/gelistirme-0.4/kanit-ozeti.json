@@ -1,0 +1,191 @@
+{
+  "successful": true,
+  "new_tests_since_0_3": 17,
+  "reproduced_failures_before_fixes": 15,
+  "baseline_runs": [
+    {
+      "file": "regresyon-oncesi.log",
+      "tests": 10,
+      "passed": 0,
+      "failed": 9,
+      "errors": 1
+    },
+    {
+      "file": "katalog-oncesi.log",
+      "tests": 1,
+      "passed": 0,
+      "failed": 1,
+      "errors": 0
+    },
+    {
+      "file": "tani-oncesi.log",
+      "tests": 3,
+      "passed": 1,
+      "failed": 2,
+      "errors": 0
+    },
+    {
+      "file": "katalog-yarisi-oncesi.log",
+      "tests": 1,
+      "passed": 0,
+      "failed": 1,
+      "errors": 0
+    },
+    {
+      "file": "katalog-arayuz-oncesi.log",
+      "tests": 1,
+      "passed": 0,
+      "failed": 1,
+      "errors": 0
+    }
+  ],
+  "changed_source_files_since_0_3": [
+    {
+      "file": "Muvv/CHANGELOG.md",
+      "change": "modified",
+      "sha256": "28aa7df09172b84e7b22eaf4d4e348b93a8f6b3de49545aed7ecf7ccbab4176c"
+    },
+    {
+      "file": "Muvv/README.md",
+      "change": "modified",
+      "sha256": "04c6601ce0a6e7289fa4da1bbcf3fe4f0cca2c734ca7b696988d69f5b354abe5"
+    },
+    {
+      "file": "Muvv/SECURITY.md",
+      "change": "modified",
+      "sha256": "e4f36669aa37348c79504bb585e1120f1e12680b11894720bf669294aeacfc17"
+    },
+    {
+      "file": "Muvv/app_version.py",
+      "change": "modified",
+      "sha256": "e364931a8afff672985ee99f795e6d8b20ff33c55d71d757ec211ec6689b3c19"
+    },
+    {
+      "file": "Muvv/cli.py",
+      "change": "modified",
+      "sha256": "a56b00aad9778b6d79f8dcf06fcd592483841ef22c791af075b3b36164a6af07"
+    },
+    {
+      "file": "Muvv/docs/IPC.md",
+      "change": "modified",
+      "sha256": "afed6f70b80cb04f0d041ba7a5f3e0d2527894ce893a988021bce254a76b11fa"
+    },
+    {
+      "file": "Muvv/drivers/base_mouse.py",
+      "change": "modified",
+      "sha256": "6a05a4cdcdcdbb4f90d3387daf673b4db500918edb31da69e25f6cb2e96437c3"
+    },
+    {
+      "file": "Muvv/gui.py",
+      "change": "modified",
+      "sha256": "fee1dcd2d63a05b0caf614cc8174ab516390f47a25a55d2407b2da9d96c732f3"
+    },
+    {
+      "file": "Muvv/managers/device_manager.py",
+      "change": "modified",
+      "sha256": "ce59df9218aa9ae5d046b82e3c11cdf8451f88baa2e8200457136ebf637d6fcd"
+    },
+    {
+      "file": "Muvv/managers/profile_store.py",
+      "change": "modified",
+      "sha256": "abd467fa87be05f49468355c23fd6c5404605a36029c35b53c8c226c4e2593d0"
+    },
+    {
+      "file": "Muvv/test/unit/test_gui.py",
+      "change": "modified",
+      "sha256": "5dd8cb8ad977c4d7606c4b62f51e17acc56fe06dbdc362b58ee5cd38bb30067b"
+    },
+    {
+      "file": "Muvv/test/unit/test_robustness.py",
+      "change": "added",
+      "sha256": "dbcffdf4cc02a15f7a1500b171d3baadaa7129544d4589d4ccfdc7f283988744"
+    },
+    {
+      "file": "Muvv/tools/gui_smoke.py",
+      "change": "modified",
+      "sha256": "c13038d395f4117c0d4f059671cb6e09625b48d1854b942cd0b4c5f5e772bf14"
+    },
+    {
+      "file": "Muvv/tools/simulation_check.py",
+      "change": "modified",
+      "sha256": "73c65c663beef7d467cf3bb4b1c81f13a8c1bb9390bd9f3544b7b6c9f2131c40"
+    },
+    {
+      "file": "Muvv/ui_client.py",
+      "change": "modified",
+      "sha256": "e93889d615ebaa1f792ae9d5d525c20d3fdb4a86298854ea8f49b90695ebce78"
+    },
+    {
+      "file": "Muvv_development_environment/README.md",
+      "change": "modified",
+      "sha256": "7032b6c96e4e26b85f6c0bdf39623d81ed793716751bb2996a34893f1d135311"
+    },
+    {
+      "file": "Muvv_development_environment/memory-bank/activeContext.md",
+      "change": "modified",
+      "sha256": "c27135728959923f7ba72a1b86f9ccb408fa3f56fb23d21f6391672a2bb04620"
+    },
+    {
+      "file": "Muvv_development_environment/memory-bank/progress.md",
+      "change": "modified",
+      "sha256": "c4024b116e2c298c55a48fc855f52b94f6ee9d9385d7ee11e3c50e656746de33"
+    },
+    {
+      "file": "Muvv_development_environment/memory-bank/systemPatterns.md",
+      "change": "modified",
+      "sha256": "52afc8617300ed5e6450d9b23b388dcc05bc96a9a03ebcbf83dbde0a74806926"
+    }
+  ],
+  "source_and_installed_wheel_tests_match": true,
+  "tests": {
+    "tests": 176,
+    "passed": 162,
+    "failures": 0,
+    "errors": 0
+  },
+  "gui_tests_in_total": 33,
+  "coverage_totals": {
+    "covered_lines": 2209,
+    "num_statements": 2605,
+    "percent_covered": 82.3917407513622,
+    "percent_covered_display": "82",
+    "missing_lines": 396,
+    "excluded_lines": 0,
+    "percent_statements_covered": 84.79846449136276,
+    "percent_statements_covered_display": "85",
+    "num_branches": 882,
+    "num_partial_branches": 150,
+    "covered_branches": 664,
+    "missing_branches": 218,
+    "percent_branches_covered": 75.28344671201815,
+    "percent_branches_covered_display": "75"
+  },
+  "simulation_scenarios": {
+    "framing": {
+      "fragmented_roundtrips": 2000,
+      "valid": 667,
+      "rejected": 1333,
+      "client_slots_restored": true
+    },
+    "concurrency": {
+      "producers": 8,
+      "transactions": 800,
+      "reports": 2400,
+      "interleaved_transactions": 0
+    },
+    "reconnect_and_profiles": {
+      "cycles": 200,
+      "unique_sessions": 200,
+      "stale_writes_blocked": 200,
+      "file_roundtrips": 200,
+      "profile_renames": 400,
+      "closed_old_handles": 200
+    },
+    "usb_failures": {
+      "failed_report_positions": 4,
+      "false_successes": 0,
+      "writes_after_failure": 0
+    }
+  },
+  "package_checks": 13
+}

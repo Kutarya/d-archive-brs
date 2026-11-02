@@ -1,0 +1,4 @@
+[console_scripts]
+muvv = cli:main
+muvv-gui = gui:main
+muvvd = daemon:main

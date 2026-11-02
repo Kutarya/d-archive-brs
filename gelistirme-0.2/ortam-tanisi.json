@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "diagnostics": {
+    "version": "0.2.0",
+    "platform": "win32",
+    "python": "3.12.10",
+    "device_service_supported": false,
+    "dependencies": {
+      "hidapi": "0.15.0",
+      "customtkinter": "6.0.0",
+      "darkdetect": "0.8.0",
+      "packaging": "26.3"
+    },
+    "checks": [
+      {
+        "name": "Device service",
+        "status": "warning",
+        "message": "Device control requires Linux; use --demo on this platform."
+      },
+      {
+        "name": "HID backend",
+        "status": "ok",
+        "message": "Available."
+      },
+      {
+        "name": "Tk",
+        "status": "ok",
+        "message": "Available."
+      },
+      {
+        "name": "Desktop UI",
+        "status": "ok",
+        "message": "Available."
+      }
+    ],
+    "hardware_access": false,
+    "filesystem_changes": false,
+    "healthy": true
+  }
+}

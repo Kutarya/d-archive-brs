@@ -1,0 +1,14 @@
+animations
+app_version
+cli
+daemon
+demo
+diagnostics
+drivers
+gui
+ipc_protocol
+keyboard_keys
+managers
+profile_io
+schemas
+ui_client

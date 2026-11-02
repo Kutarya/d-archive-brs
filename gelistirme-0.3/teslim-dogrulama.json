@@ -1,0 +1,59 @@
+{
+  "successful": true,
+  "directory": "D:\\BRS\\teslim\\Muvv-0.3.0-20261011",
+  "source_files": 94,
+  "review_zip_entries": 143,
+  "archive_crc_and_file_contents_verified": true,
+  "files": [
+    {
+      "path": "DOSYA-MANIFEST.json",
+      "bytes": 43353,
+      "sha256": "6391d6d2ec5c6426f4cd41cece7c07929670c9c7319447364cc1c070e173b2d5"
+    },
+    {
+      "path": "GELISTIRME-0.3-PLANI.md",
+      "bytes": 1400,
+      "sha256": "620c7187b2aa98bac7fe546be7361acf274805ecfdf31c6ea0c3b027232c3c08"
+    },
+    {
+      "path": "GELISTIRME-0.3-RAPORU.md",
+      "bytes": 11699,
+      "sha256": "eafba51569a67965d1192412a5e1b917932dda1c60d8ec1a9ebebd8267b878e5"
+    },
+    {
+      "path": "Muvv-0.3.0-inceleme.zip",
+      "bytes": 850463,
+      "sha256": "0ec4150bea1c42630664747b330bbd69ec588d59bb979860c3305648bae3fa1e"
+    },
+    {
+      "path": "Muvv-0.3.0-kaynak.zip",
+      "bytes": 141020,
+      "sha256": "df0af6732df1a4e006cf68e232878da430ad3ec00942c3d918c01bfa70a43a37"
+    },
+    {
+      "path": "muvv-0.3.0-py3-none-any.whl",
+      "bytes": 63495,
+      "sha256": "c13d5863a67cbde920898e618a5883e380250981969b5b2b1cad5cf9edb7f377"
+    },
+    {
+      "path": "muvv-0.3.0.tar.gz",
+      "bytes": 108323,
+      "sha256": "b85a690e73d134be30bf5d43211e5e4a1061af0061c73ea7a6fa48dac7837fcc"
+    },
+    {
+      "path": "Muvv.patch",
+      "bytes": 506275,
+      "sha256": "806be381a2d126e73000f1d9d954fd251549f6a4f14666ecccaa7165c5400416"
+    },
+    {
+      "path": "Muvv_development_environment.patch",
+      "bytes": 39736,
+      "sha256": "6c658e42b134542461416fc1ab34411ed0d9e0ddaab30cd04b6d099f86a69250"
+    },
+    {
+      "path": "TESLIM.md",
+      "bytes": 2493,
+      "sha256": "193420d8f150102ea909e67064f818d86beeba3e2070b7fda6b9a054f90ebf00"
+    }
+  ]
+}

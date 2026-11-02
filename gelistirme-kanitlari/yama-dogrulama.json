@@ -1,0 +1,15 @@
+{
+  "successful": true,
+  "source_reconstructed_from_zip_and_patch": [
+    {
+      "repository": "Muvv",
+      "matching_files": 72,
+      "patch_sha256": "edaa4eab00e28044e199958afd3a53303cb339ed60059061a13c5e1f11a06ee5"
+    },
+    {
+      "repository": "Muvv_development_environment",
+      "matching_files": 12,
+      "patch_sha256": "5aca57d2583df20887486b93ae5ee1ff30905da0d128d469d11a9342e9cd4a92"
+    }
+  ]
+}

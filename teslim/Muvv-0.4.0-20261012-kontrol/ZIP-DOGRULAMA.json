@@ -1,0 +1,13 @@
+{
+  "checked_at_utc": "2026-10-12T00:36:44.595174+00:00",
+  "successful": true,
+  "zip": "D:\\BRS\\teslim\\Muvv-0.4.0-20261012-kontrol\\Muvv-0.4.0-Proje-20261012.zip",
+  "zip_bytes": 1218590,
+  "sha256": "6dc8ca25036ed73096231543323b5ff1a1ec387660cc7205e115d348fd2f3b62",
+  "files": 183,
+  "source_files_verified": 95,
+  "crc_and_all_file_bytes_verified": true,
+  "extracted_to": "D:\\BRS\\kontrol-20261012\\zip-acilim\\Paylasim Denemesi\\Muvv-0.4.0-Proje",
+  "broken_local_markdown_links": [],
+  "virtual_environments_and_personal_data_in_archive": false
+}

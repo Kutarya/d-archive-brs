@@ -1,0 +1,1 @@
+{"dependencies": [{"name": "hidapi", "version": "0.15.0", "vulns": []}, {"name": "customtkinter", "version": "6.0.0", "vulns": []}, {"name": "darkdetect", "version": "0.8.0", "vulns": []}, {"name": "packaging", "version": "26.3", "vulns": []}], "fixes": []}

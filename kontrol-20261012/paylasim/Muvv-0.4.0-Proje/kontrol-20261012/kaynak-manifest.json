@@ -1,0 +1,477 @@
+[
+  {
+    "path": "Muvv/.gitattributes",
+    "bytes": 19,
+    "sha256": "d60f352d0db1404c70afb4bb8b2ca3fd1c610572aa40720e8a0b7baa7885418c"
+  },
+  {
+    "path": "Muvv/.github/workflows/check.yml",
+    "bytes": 1601,
+    "sha256": "84e2b9875a3d370bc21b81fff1ac65c9994d03a6a034b57e9c5637745a64316e"
+  },
+  {
+    "path": "Muvv/.gitignore",
+    "bytes": 516,
+    "sha256": "0992b7f94f3aeee5d2a928e0054394bec74bf38bef877c12b1204745f08a04c3"
+  },
+  {
+    "path": "Muvv/CHANGELOG.md",
+    "bytes": 6959,
+    "sha256": "28aa7df09172b84e7b22eaf4d4e348b93a8f6b3de49545aed7ecf7ccbab4176c"
+  },
+  {
+    "path": "Muvv/MANIFEST.in",
+    "bytes": 218,
+    "sha256": "dd7e864b357be143620863a3e77c644356227ae138456a5cd0cc6fefdd267070"
+  },
+  {
+    "path": "Muvv/README.md",
+    "bytes": 9750,
+    "sha256": "04c6601ce0a6e7289fa4da1bbcf3fe4f0cca2c734ca7b696988d69f5b354abe5"
+  },
+  {
+    "path": "Muvv/SECURITY.md",
+    "bytes": 7162,
+    "sha256": "e4f36669aa37348c79504bb585e1120f1e12680b11894720bf669294aeacfc17"
+  },
+  {
+    "path": "Muvv/animations/__init__.py",
+    "bytes": 31,
+    "sha256": "8d77e846b4faff6a286fe848b9eba6b09261e249b0d24e544b97bb00ecdc79de"
+  },
+  {
+    "path": "Muvv/animations/effect_registry.py",
+    "bytes": 1900,
+    "sha256": "4be20859da43ab19743759f7885ddd1678e3d79420d96cb33ce44b61d5fb4b4e"
+  },
+  {
+    "path": "Muvv/animations/effects/__init__.py",
+    "bytes": 209,
+    "sha256": "e98d033722012f8be45daa849af34a4c5df404dd2ac8e5855627fdd7e873975c"
+  },
+  {
+    "path": "Muvv/animations/effects/base_effect.py",
+    "bytes": 2391,
+    "sha256": "ae0538058c5f2ecc57d056b07e74ee541c100c50534c9b35fc3f59a59bb0484b"
+  },
+  {
+    "path": "Muvv/animations/effects/breathing.py",
+    "bytes": 685,
+    "sha256": "7acb6552c11cc8b210c65abce4a9a53c685d37b57a3c3895591cbb8cac014f1f"
+  },
+  {
+    "path": "Muvv/animations/effects/spectrum_cycle.py",
+    "bytes": 743,
+    "sha256": "80039113ef0a84d24df544788b43349be72206d5e830171edbf540f312506484"
+  },
+  {
+    "path": "Muvv/animations/effects/static_color.py",
+    "bytes": 472,
+    "sha256": "06c7b4c27fe3d63c4de19469e597bb67865aba5db506527e277f57f43c2387a5"
+  },
+  {
+    "path": "Muvv/animations/effects/wave.py",
+    "bytes": 1299,
+    "sha256": "88ebc17f0580a962917a597d2bff8123879a34326d17c780f3d7154ed64f3699"
+  },
+  {
+    "path": "Muvv/animations/layer.py",
+    "bytes": 2909,
+    "sha256": "34a9a691dbba621f439a5db2891c0e11507f24af1bcc942800de5b11310bdd6e"
+  },
+  {
+    "path": "Muvv/animations/maps.py",
+    "bytes": 1317,
+    "sha256": "887173533162a142d3dd1df64709689db60e861bdccd8da9464562313d8b4790"
+  },
+  {
+    "path": "Muvv/animations/vitray.py",
+    "bytes": 1040,
+    "sha256": "67c8b182dc0cf18b8ebefe44ffb1a51aba78a8fd3ba2fd11e98a6e6d1fb82c2a"
+  },
+  {
+    "path": "Muvv/app_version.py",
+    "bytes": 22,
+    "sha256": "e364931a8afff672985ee99f795e6d8b20ff33c55d71d757ec211ec6689b3c19"
+  },
+  {
+    "path": "Muvv/cli.py",
+    "bytes": 14271,
+    "sha256": "a56b00aad9778b6d79f8dcf06fcd592483841ef22c791af075b3b36164a6af07"
+  },
+  {
+    "path": "Muvv/daemon.py",
+    "bytes": 1510,
+    "sha256": "a899293b2e26d35a7e0006c45b644c4762ba4f8c2b82dcd8bdbf434c36aa649b"
+  },
+  {
+    "path": "Muvv/demo.py",
+    "bytes": 1483,
+    "sha256": "73b93cd7cf23726bf91db0787c020963392323143a5cf0455d45ad23528b0f36"
+  },
+  {
+    "path": "Muvv/diagnostics.py",
+    "bytes": 3032,
+    "sha256": "91e12042d55be710adf733914c38b8af11e4b325c1a7caf9aa657e32f78bee3f"
+  },
+  {
+    "path": "Muvv/docs/ARCHITECTURE.md",
+    "bytes": 5167,
+    "sha256": "57c8c6fc23d9c50e7695bc7ebebe68d59bdef0ac0e5959242ffc45bdc4abefd0"
+  },
+  {
+    "path": "Muvv/docs/HARDWARE-ACCEPTANCE.md",
+    "bytes": 3125,
+    "sha256": "b8b016949ce9f91fea08e3a0a1eb0201101e70140e9fe372e273904bddebcbb1"
+  },
+  {
+    "path": "Muvv/docs/IPC.md",
+    "bytes": 6673,
+    "sha256": "afed6f70b80cb04f0d041ba7a5f3e0d2527894ce893a988021bce254a76b11fa"
+  },
+  {
+    "path": "Muvv/docs/SteelSeries/Rival 3 Gen 2/tr/DPI dökümantasyonu.md",
+    "bytes": 4529,
+    "sha256": "f709d6574f509af26bbeb793d412242ba5490113fec00a34ec7e5eaf1c7cabae"
+  },
+  {
+    "path": "Muvv/docs/SteelSeries/Rival 3 Gen 2/tr/Renk dökümantasyonu.md",
+    "bytes": 2946,
+    "sha256": "0b716c054055356ab36ca0d391e315c819d4cfac77f4a288bf6553c8b4ccdda6"
+  },
+  {
+    "path": "Muvv/docs/SteelSeries/Rival 3 Gen 2/tr/Tuş Atama Dökümanı.md",
+    "bytes": 3915,
+    "sha256": "50f25b34a1ee6b5fd41c0bcde502219be09bc70659e73645d0b09964e898ddbe"
+  },
+  {
+    "path": "Muvv/drivers/__init__.py",
+    "bytes": 35,
+    "sha256": "8a1b1ac152f94bdf38c92b469ae11f42c03ceb3c9d58a1277c1a973adfc9442a"
+  },
+  {
+    "path": "Muvv/drivers/base_mouse.py",
+    "bytes": 9893,
+    "sha256": "6a05a4cdcdcdbb4f90d3387daf673b4db500918edb31da69e25f6cb2e96437c3"
+  },
+  {
+    "path": "Muvv/drivers/steelseries/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Muvv/drivers/steelseries/rival3_gen2.py",
+    "bytes": 16604,
+    "sha256": "29231c555ae91b4acb12f6697a81f768a675e256368067c5bf3b9161de86f4cd"
+  },
+  {
+    "path": "Muvv/gui.py",
+    "bytes": 50324,
+    "sha256": "fee1dcd2d63a05b0caf614cc8174ab516390f47a25a55d2407b2da9d96c732f3"
+  },
+  {
+    "path": "Muvv/ipc_protocol.py",
+    "bytes": 5307,
+    "sha256": "d183dfbafa65fad6a3c94c01cfed59073d36b8caee7e22f64ede361b35b9807c"
+  },
+  {
+    "path": "Muvv/keyboard_keys.py",
+    "bytes": 1317,
+    "sha256": "c669335aa72472d5ac759794ec1a96f10fdc0a7e9358648a7eb9ed7c1e12e806"
+  },
+  {
+    "path": "Muvv/managers/__init__.py",
+    "bytes": 55,
+    "sha256": "b33d1697f266e958d082eeaa7f5d61259be6cfa5a8e33e129570c16dddaa5290"
+  },
+  {
+    "path": "Muvv/managers/device_manager.py",
+    "bytes": 15409,
+    "sha256": "ce59df9218aa9ae5d046b82e3c11cdf8451f88baa2e8200457136ebf637d6fcd"
+  },
+  {
+    "path": "Muvv/managers/device_registry.py",
+    "bytes": 883,
+    "sha256": "6bcde1eff9b073d242896c2acaefddeb0a93679cb729b8373db479e3eb47d454"
+  },
+  {
+    "path": "Muvv/managers/device_runner.py",
+    "bytes": 11452,
+    "sha256": "82f7d7134490bbab91ca7582fad753cce5d175bd6852a5746a636a2038e372f8"
+  },
+  {
+    "path": "Muvv/managers/errors.py",
+    "bytes": 663,
+    "sha256": "c4caf60de6695507e287b7ecfcb96885884e7dde77ed70d8a31861ff3c7f0184"
+  },
+  {
+    "path": "Muvv/managers/ipc_server.py",
+    "bytes": 20941,
+    "sha256": "251dac849ae785305fdf7f4b9d4bcefbdd4afdec0e3a931b0ddc47868d3e1824"
+  },
+  {
+    "path": "Muvv/managers/profile_store.py",
+    "bytes": 12293,
+    "sha256": "abd467fa87be05f49468355c23fd6c5404605a36029c35b53c8c226c4e2593d0"
+  },
+  {
+    "path": "Muvv/managers/validator.py",
+    "bytes": 3721,
+    "sha256": "c2ca603c46e4e9c39564448eb9431d5c84d1f8025350a283b565eb4b06b248b7"
+  },
+  {
+    "path": "Muvv/packaging/70-muvv.rules",
+    "bytes": 194,
+    "sha256": "dbc6b9047ab22102b01bbf5864f2ff97a2480eb5278c4389a7c575213505b772"
+  },
+  {
+    "path": "Muvv/packaging/muvvd.service",
+    "bytes": 262,
+    "sha256": "02db882c884e4aad70d4a0e7a5f197d822b1272920edf8bcd76cd5103240a423"
+  },
+  {
+    "path": "Muvv/profile_io.py",
+    "bytes": 3018,
+    "sha256": "21b2381faf7d2d5c51cd2bc75ad6be66840e13059f21a81467870a6c07e77da2"
+  },
+  {
+    "path": "Muvv/pyproject.toml",
+    "bytes": 1641,
+    "sha256": "4316d31449db851bdbe9fbab57c121e7af2cbe61e149dda3110e567fa6853a30"
+  },
+  {
+    "path": "Muvv/requirements-dev.txt",
+    "bytes": 61,
+    "sha256": "9f896429edb8ea485b8522d12a138abb4af7ff7cc337aadd863f7deab61e7f04"
+  },
+  {
+    "path": "Muvv/requirements-lock.txt",
+    "bytes": 7551,
+    "sha256": "6c44f17e99d99736240eeb9090b0435c8a6e6a56083039a3ee6d8cdad1a89adc"
+  },
+  {
+    "path": "Muvv/requirements.txt",
+    "bytes": 36,
+    "sha256": "812a8743fccc1eb33c98d0ead6e3208529bc6d8cd9d8ad37d2e9dcbf6272b541"
+  },
+  {
+    "path": "Muvv/schemas.py",
+    "bytes": 719,
+    "sha256": "092f2abd5a71cab35747f3e4c1c20f4d6c8872154225b6bb5939774bde584000"
+  },
+  {
+    "path": "Muvv/test/hardware/steelseries/rival3_gen2/test_buttons.py",
+    "bytes": 326,
+    "sha256": "39f8dea5b2608f3e62d73b25374c7afe91d31362cf6912e6d6ba7ef0ea523761"
+  },
+  {
+    "path": "Muvv/test/hardware/steelseries/rival3_gen2/test_color.py",
+    "bytes": 324,
+    "sha256": "5791beee8c6d7764b494997bcb6f3e95d0c4f09dd40811d4df9cd23f87bb518c"
+  },
+  {
+    "path": "Muvv/test/hardware/steelseries/rival3_gen2/test_connection.py",
+    "bytes": 326,
+    "sha256": "1d75d0282a340cdafac76199bb293ce25c6d5cbc0c7254a1ac86dec538f0115c"
+  },
+  {
+    "path": "Muvv/test/hardware/steelseries/rival3_gen2/test_dpi.py",
+    "bytes": 322,
+    "sha256": "d407fb9d1aca5acd0596b95f3001488e0f0edc121a43a6662d4124f8b6a9d51f"
+  },
+  {
+    "path": "Muvv/test/hardware/steelseries/rival3_gen2/test_dpi_stages.py",
+    "bytes": 325,
+    "sha256": "fec36ffd395a2d6f86e327838c53c8b440947922b9ac62ee1ffdf85baba829f2"
+  },
+  {
+    "path": "Muvv/test/hardware/steelseries/rival3_gen2/test_vitray_cli.py",
+    "bytes": 325,
+    "sha256": "5b532b9c906d5de54a4907b3370183705f20a9997c68d183d971e38ce682d88d"
+  },
+  {
+    "path": "Muvv/test/manager/test_capabilities_info.py",
+    "bytes": 1848,
+    "sha256": "931d4ebdce77585adf4f39e29b5cc0188dcc364d069451be8e79574f812b651e"
+  },
+  {
+    "path": "Muvv/test/manager/test_effect_options.py",
+    "bytes": 1617,
+    "sha256": "df085b2421042660bd2d332a7814dbafecca51d5efaa619d924033ab6bacc7a9"
+  },
+  {
+    "path": "Muvv/test/manager/test_manager.py",
+    "bytes": 322,
+    "sha256": "82203b1d9ac52e177d9d7c8dd2e700b3ae1324ffbe922ec80e5615ef798befd8"
+  },
+  {
+    "path": "Muvv/test/manager/test_validator.py",
+    "bytes": 3310,
+    "sha256": "b1e965308b8dd5c85a12d8ca9cfecb1742b7de2c9a0235b7ef81506fd37d9462"
+  },
+  {
+    "path": "Muvv/test/unit/support.py",
+    "bytes": 1194,
+    "sha256": "30eb8b6f9b7a289b264741f19d562bf0456a67bb18a103538811cf4391604e85"
+  },
+  {
+    "path": "Muvv/test/unit/test_client_workflows.py",
+    "bytes": 12367,
+    "sha256": "15059a089f0f7fcb446b2775960436de5950da477d9724da224c9267e8cb30e4"
+  },
+  {
+    "path": "Muvv/test/unit/test_daemon.py",
+    "bytes": 1405,
+    "sha256": "2be68cefcfc5ab633e6bd0628db623bbf17ee496339a67a77721bdc484b1e946"
+  },
+  {
+    "path": "Muvv/test/unit/test_driver.py",
+    "bytes": 8190,
+    "sha256": "02a8643f61dcacefd5b9bfdf2923a954909b697b97cbaf25c1b164a2bddb25a7"
+  },
+  {
+    "path": "Muvv/test/unit/test_effects.py",
+    "bytes": 5678,
+    "sha256": "a6c81efe2faab6ee3ee384b8e5f71d786d7ff630760f4d0941b685b284102272"
+  },
+  {
+    "path": "Muvv/test/unit/test_gui.py",
+    "bytes": 19868,
+    "sha256": "5dd8cb8ad977c4d7606c4b62f51e17acc56fe06dbdc362b58ee5cd38bb30067b"
+  },
+  {
+    "path": "Muvv/test/unit/test_lifecycle.py",
+    "bytes": 8873,
+    "sha256": "d9dda3e0f4c9a7395dd4f1b188bdbad028891110c20427c49d153ce2bab277bf"
+  },
+  {
+    "path": "Muvv/test/unit/test_linux_ipc.py",
+    "bytes": 7771,
+    "sha256": "f6f47adda7c638f3789dd8da3f950633ebab9243e1a1420f3a9b156ea1c2998f"
+  },
+  {
+    "path": "Muvv/test/unit/test_manager_cli.py",
+    "bytes": 8090,
+    "sha256": "11f1bd15157828c00f453c90dd12bfd9abe7a14282f8afa747f2b0d22a9b88b5"
+  },
+  {
+    "path": "Muvv/test/unit/test_profile_exchange.py",
+    "bytes": 7212,
+    "sha256": "d12afe194b721d6217da47a464542ed7eeeda54507c5eb66681118731720ddb1"
+  },
+  {
+    "path": "Muvv/test/unit/test_profiles.py",
+    "bytes": 4342,
+    "sha256": "3a78517e21ad6962cc6871c9913c1e3533e65d20b48e3392a15d5c85733b0b0a"
+  },
+  {
+    "path": "Muvv/test/unit/test_protocol.py",
+    "bytes": 6194,
+    "sha256": "2e602ec0f15dc19f4c0ec1817ce77922de26526bfe07786838c237d1bf025c4d"
+  },
+  {
+    "path": "Muvv/test/unit/test_robustness.py",
+    "bytes": 9854,
+    "sha256": "dbcffdf4cc02a15f7a1500b171d3baadaa7129544d4589d4ccfdc7f283988744"
+  },
+  {
+    "path": "Muvv/test/unit/test_scheduling.py",
+    "bytes": 2381,
+    "sha256": "5bb59021c82e5bc8d4c756dead05449e8aaf4a32a83ff3f29c1aa5ac14d55f07"
+  },
+  {
+    "path": "Muvv/test/unit/test_session_safety.py",
+    "bytes": 5612,
+    "sha256": "cb822bb50c54ce7dc8ad06adaa99418727fc7d5f8e65b88c50e50a79c9b1dc8a"
+  },
+  {
+    "path": "Muvv/tools/check.py",
+    "bytes": 1706,
+    "sha256": "928e293589d7c133b0b98db881c8de86382d48f528d8f7149f1c07797e4228aa"
+  },
+  {
+    "path": "Muvv/tools/gui_smoke.py",
+    "bytes": 4768,
+    "sha256": "c13038d395f4117c0d4f059671cb6e09625b48d1854b942cd0b4c5f5e772bf14"
+  },
+  {
+    "path": "Muvv/tools/hardware_check.py",
+    "bytes": 4742,
+    "sha256": "8ed4a18e89b1423a39206266d074327cd6730ac93764668b037df4884e25daa3"
+  },
+  {
+    "path": "Muvv/tools/lock_requirements.py",
+    "bytes": 1304,
+    "sha256": "add02c1f6937c8037f0d9404f320c999fcc01276634e45c0187f1870101c63a1"
+  },
+  {
+    "path": "Muvv/tools/simulation_check.py",
+    "bytes": 12284,
+    "sha256": "73c65c663beef7d467cf3bb4b1c81f13a8c1bb9390bd9f3544b7b6c9f2131c40"
+  },
+  {
+    "path": "Muvv/ui_client.py",
+    "bytes": 12262,
+    "sha256": "e93889d615ebaa1f792ae9d5d525c20d3fdb4a86298854ea8f49b90695ebce78"
+  },
+  {
+    "path": "Muvv_development_environment/.gitattributes",
+    "bytes": 19,
+    "sha256": "d60f352d0db1404c70afb4bb8b2ca3fd1c610572aa40720e8a0b7baa7885418c"
+  },
+  {
+    "path": "Muvv_development_environment/.gitignore",
+    "bytes": 8,
+    "sha256": "34053773df43f848d53e235b055f6ccdbbcbfcb7eeff68ef95e00e55e24c7c3c"
+  },
+  {
+    "path": "Muvv_development_environment/README.md",
+    "bytes": 1018,
+    "sha256": "7032b6c96e4e26b85f6c0bdf39623d81ed793716751bb2996a34893f1d135311"
+  },
+  {
+    "path": "Muvv_development_environment/Truemove_core.txt",
+    "bytes": 1460,
+    "sha256": "22cc8a78cc54c3ce10b2938ed7ba144723f5115e7e3dbffc108a627528933e3e"
+  },
+  {
+    "path": "Muvv_development_environment/development environment.md",
+    "bytes": 1965,
+    "sha256": "69bd4d3cab1fa0ac8a4b357cc713484dc060e4c68868c4691e0a160601736c65"
+  },
+  {
+    "path": "Muvv_development_environment/memory-bank/activeContext.md",
+    "bytes": 2770,
+    "sha256": "c27135728959923f7ba72a1b86f9ccb408fa3f56fb23d21f6391672a2bb04620"
+  },
+  {
+    "path": "Muvv_development_environment/memory-bank/progress.md",
+    "bytes": 3785,
+    "sha256": "c4024b116e2c298c55a48fc855f52b94f6ee9d9385d7ee11e3c50e656746de33"
+  },
+  {
+    "path": "Muvv_development_environment/memory-bank/projectbrief.md",
+    "bytes": 1107,
+    "sha256": "c580e4a6becd323c66ba69517053c0cd41a671f41407e944bf59f33a5ff4bde9"
+  },
+  {
+    "path": "Muvv_development_environment/memory-bank/systemPatterns.md",
+    "bytes": 3302,
+    "sha256": "52afc8617300ed5e6450d9b23b388dcc05bc96a9a03ebcbf83dbde0a74806926"
+  },
+  {
+    "path": "Muvv_development_environment/memory-bank/techContext.md",
+    "bytes": 1218,
+    "sha256": "43bdde683872cc020288636b27a7ffd69f596fa7006d555acad0f266f4b2dcf3"
+  },
+  {
+    "path": "Muvv_development_environment/proje.md",
+    "bytes": 4379,
+    "sha256": "dc4532eaabea8e5bc8eab915c615c3a9c5987e773d2077eb8607334c9f6039c7"
+  },
+  {
+    "path": "Muvv_development_environment/python_environment_setup.md",
+    "bytes": 1400,
+    "sha256": "13c8f95151fb0bbd8a96ffd00de7b90974733e205c373e693423979b2780215b"
+  }
+]
